@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+  
+.swipe-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+  
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 150px;
+    height: 200px;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: #f9f9f9;
+}
+  
+.card:hover {
+    background-color: #e0e0e0;
+}
+  
+#ranking {
+    list-style-type: none;
+    padding: 0;
+}
