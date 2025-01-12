@@ -1,6 +1,6 @@
 [
-    { "id": 1, "name": "Personnage A", "image": "a.jpg" },
-    { "id": 2, "name": "Personnage B", "image": "b.jpg" },
-    { "id": 3, "name": "Personnage C", "image": "c.jpg" },
-    { "id": 4, "name": "Personnage D", "image": "d.jpg" }
+    { "id": 1, "name": "Personnage A", "image": "a.png" },
+    { "id": 2, "name": "Personnage B", "image": "b.png" },
+    { "id": 3, "name": "Personnage C", "image": "c.png" },
+    { "id": 4, "name": "Personnage D", "image": "d.png" }
 ]  
